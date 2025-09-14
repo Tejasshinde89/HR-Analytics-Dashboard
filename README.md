@@ -30,10 +30,8 @@ The dashboard provides answers to key business questions, including:
 * **What are the key drivers of attrition?** The dashboard helps to visualize correlations between factors like education and years at the company with attrition rates.
 * **What is the overall health of our workforce?** Metrics like average age and years at the company provide a quick snapshot of the employee base.
 
-## Tool:** Microsoft Power BI
-<p align="left">
-  <img src="images/Power_BI.png" alt="Power BI" width="100"/>
-</p>
+## 🛠️ Tool: Microsoft Power BI
+![Power BI Logo](Power_BI.png)
 
 ## 🛠️ Technical Details
 
