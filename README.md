@@ -21,6 +21,8 @@ It helps HR teams identify retention issues and make data-driven decisions.
 - **Attrition by Education:** Life Sciences and Medical backgrounds dominate.  
 
 ## Tools Used  
-- **Power BI** – Dashboard creation & visualization
+<p align="left">
+  <img src="images/Power_BI.png" alt="Power BI" width="100"/>
+</p>
 
 ## Project Structure  
