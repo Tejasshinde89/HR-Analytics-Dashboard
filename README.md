@@ -5,7 +5,7 @@ This project provides a detailed HR Analytics Dashboard built in **Power BI**, f
 It helps HR teams identify retention issues and make data-driven decisions.
 
 ## Dashboard Preview  
-![HR Analytics Dashboard](images/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Key Insights  
 - **Total Employees:** 1470  
@@ -21,8 +21,6 @@ It helps HR teams identify retention issues and make data-driven decisions.
 - **Attrition by Education:** Life Sciences and Medical backgrounds dominate.  
 
 ## Tools Used  
-<p align="left">
-  <img src="images/Power_BI.png" alt="Power BI" width="100"/>
-</p>
+![Power BI Logo](Power_BI.png)
 
 ## Project Structure  
