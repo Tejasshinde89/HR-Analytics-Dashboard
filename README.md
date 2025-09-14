@@ -13,13 +13,13 @@ This repository contains a Power BI project for HR Analytics. The dashboard is d
 
 Here is a preview of the main dashboard page:
 
-![HR Analytics Dashboard](Dashboard%20(2).jpg)
+![HR Analytics Dashboard](Dashboard.png)
 
 ## 📂 Project Files
 
 * `HR_Analytics_Dataset.csv`: The raw dataset used for this project.
 * `PowerBI_Project.pbix`: The Power BI project file containing the data model, measures, and dashboard layouts.
-* `Dashboard (2).jpg`: A screenshot of the completed dashboard.
+* `Dashboard.png`: A screenshot of the completed dashboard.
 * `Power_BI.png`: The Power BI logo used in the project.
 
 ## 📈 Dashboard Insights
@@ -30,9 +30,13 @@ The dashboard provides answers to key business questions, including:
 * **What are the key drivers of attrition?** The dashboard helps to visualize correlations between factors like education and years at the company with attrition rates.
 * **What is the overall health of our workforce?** Metrics like average age and years at the company provide a quick snapshot of the employee base.
 
+## Tool:** Microsoft Power BI
+<p align="left">
+  <img src="images/Power_BI.png" alt="Power BI" width="100"/>
+</p>
+
 ## 🛠️ Technical Details
 
-* **Tool:** Microsoft Power BI
 * **Data Source:** `HR_Analytics_Dataset.csv`
 * **Data Modeling:** The project utilizes a single flat table for simplicity.
 * **DAX Measures:** Custom DAX measures were created to calculate key performance indicators (KPIs) like `Count of Attrition` and `Rate of Attrition`.
@@ -46,5 +50,3 @@ To view and interact with the dashboard, you need to have **Microsoft Power BI D
 3.  The dashboard will load, and you can interact with all the slicers and visuals.
 
 ## 🤝 Contact
-
-If you have any questions or feedback, feel free to open an issue in this repository.
